@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to VCB accounts related local APIs "
+  message: "Welcome to VCB accounts related local GITHUB APIs "
   contactDetails:
     name: "HNT - Developer"
     email: "hnt@guru.com"
